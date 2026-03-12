@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11527.330 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Better Pot & Pumpkin Fusion", "Better Fusion Cassidy\Better Pot & Pumpkin Fusion.csproj", "{2B8D99A2-DE1E-4239-9FFF-D8C2C6B99683}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Better Pot & Pumpkin Fusion (BepInEx)", "Better Pot & Pumpkin Fusion (BepInEx)\Better Pot & Pumpkin Fusion (BepInEx).csproj", "{53F77E7C-2758-869A-77B4-38AC0512354A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{2B8D99A2-DE1E-4239-9FFF-D8C2C6B99683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B8D99A2-DE1E-4239-9FFF-D8C2C6B99683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B8D99A2-DE1E-4239-9FFF-D8C2C6B99683}.Release|Any CPU.Build.0 = Release|Any CPU
-		{53F77E7C-2758-869A-77B4-38AC0512354A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53F77E7C-2758-869A-77B4-38AC0512354A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53F77E7C-2758-869A-77B4-38AC0512354A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53F77E7C-2758-869A-77B4-38AC0512354A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
